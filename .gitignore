@@ -1,6 +1,7 @@
 # Exclude all CSV files
 *.csv
-.db
+*.db
+*.txt
 # Python specific ignores
 __pycache__/
 *.py[cod]
