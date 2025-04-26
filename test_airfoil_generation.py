@@ -1,0 +1,2 @@
+from generate_airfoil_coordinates import generate_airfoil_coordinates
+generate_airfoil_coordinates('2032c')
