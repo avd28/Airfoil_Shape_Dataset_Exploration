@@ -23,7 +23,8 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-
+.streamlit/secrets.toml
+.streamlit/
 # Virtual Environment
 venv/
 ENV/
